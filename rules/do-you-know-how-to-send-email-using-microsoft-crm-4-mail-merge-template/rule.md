@@ -22,7 +22,7 @@ You can use mail merge template to send emails to various accounts and multiple 
   ![Figure: Find your active marketing lists to send out an email blast with mail merge templates](send-email-email-template-2.png)
 
 2.	Click on the marketing list you want to send the email blast to 
-  ![Figure: selection of marketing list](send-email-email-template-3.png)
+  ![Figure: Selection of marketing list](send-email-email-template-3.png)
 
 3.	Select New Quick Campaign
   ![Figure: Selecting New Quick Campaigns](send-email-email-template-4.png)
