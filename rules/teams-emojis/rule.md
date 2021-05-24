@@ -32,5 +32,9 @@ An easy and fun way to alleviate this issue and boost user adoption to Microsoft
 :::
 
 ::: good  
+![Figure: Good example - Control4 automation Mobile UI is more friendly with emojis](Control4_Emojis_Good.png)
+:::
+
+::: good  
 ![Figure: Good example - Some appointments can benefit from an emoji too](calendar-emoji.png)  
 :::
