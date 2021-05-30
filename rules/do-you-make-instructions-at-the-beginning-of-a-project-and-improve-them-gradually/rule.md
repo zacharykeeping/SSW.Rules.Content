@@ -12,6 +12,8 @@ authors:
   url: https://ssw.com.au/people/ryan-tee
 - title: Adam Stephensen
   url: https://ssw.com.au/people/adam-stephensen
+- title: Piers Sinclair
+  url: https://ssw.com.au/people/piers-sinclair
 related: []
 redirects: []
 
@@ -28,16 +30,17 @@ There are 5 levels of project documentation. Documentation can start simple but 
 ### Level #1 - Lots of documentation step by step
 
 
-Add a document as a solution item and name it '\_Instructions.docx'
+Add a 'README.MD' to your solution that contains the essential instructions for running the solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown).
 
-Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
+
+Tip: Markdown files are preferred over word and .txt files because they provide images and formatting in addition to source control.
 
 You can also break up this document into 4 smaller documents
 
-* \_Business.docx - Explaining the business purpose of the app
-* \_Instructions\_Compile.docx - Contains instructions on how to get the project to compile
-* \_Instructions\_Deployment.docx - Describes the deployment process
-* \_Technologies.docx - Explaining the technical overview e.g. Broad architecture decisions, 3rd party utilities, patterns followed etc
+* \_Business.md - Explaining the business purpose of the app
+* \_Instructions\_Compile.md - Contains instructions on how to get the project to compile
+* \_Instructions\_Deployment.md - Describes the deployment process
+* \_Technologies.md - Explaining the technical overview e.g. Broad architecture decisions, 3rd party utilities, patterns followed etc
 
 
 Here's a suggestion of what these documents could contain.
@@ -62,8 +65,6 @@ Here's a suggestion of what these documents could contain.
 ![Good example - A project with instructions](ProjectDocumentation.jpg)  
 :::
 
-Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)
-
 ### Level #2: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
 
 
@@ -83,7 +84,7 @@ Lots of dependencies
 :::
 
 
-You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
+You are at Level 2 when you have some static markdown files with the steps to compile. The \README.MD contains the steps required to be able to get latest and compile.
 
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
