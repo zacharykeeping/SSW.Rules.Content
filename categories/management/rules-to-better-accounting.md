@@ -22,6 +22,7 @@ index:
 - do-you-use-a-mobile-app-to-check-your-personal-payroll
 - do-you-use-auto-fetch-functions-for-invoices
 - do-you-schedule-supplier-payments
+- do-you-track-your-recrurring-expenses
 
 ---
 
