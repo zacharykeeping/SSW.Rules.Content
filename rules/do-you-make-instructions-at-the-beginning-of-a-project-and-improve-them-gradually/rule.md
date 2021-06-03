@@ -38,9 +38,9 @@ Tip: Markdown files are preferred over word and .txt files because they provide 
 You can also break up this document into 4 smaller documents
 
 * \_Business.md - Explaining the business purpose of the app
-* \_Instructions\_Compile.md - Contains instructions on how to get the project to compile
-* \_Instructions\_Deployment.md - Describes the deployment process
-* \_Technologies.md - Explaining the technical overview e.g. Broad architecture decisions, 3rd party utilities, patterns followed etc
+* \Instructions-Compile.md - Contains instructions on how to get the project to compile
+* \Instructions-Deployment.md - Describes the deployment process
+* \Technologies-and-Architecture.md - Explaining the technical overview e.g. Broad architecture decisions, 3rd party utilities, patterns followed etc
 
 
 Here's a suggestion of what these documents could contain.
@@ -84,7 +84,7 @@ Lots of dependencies
 :::
 
 
-You are at Level 2 when you have some static markdown files with the steps to compile. The \README.MD contains the steps required to be able to get latest and compile.
+You are at Level 2 when you have some static markdown files with the steps to compile. The \_Instructions\_Compile.md contains the steps required to be able to get latest and compile.
 
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
