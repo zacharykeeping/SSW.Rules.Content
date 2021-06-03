@@ -1,7 +1,7 @@
 ---
 type: rule
 archivedreason: We no longer do this, we now do our daily stand-up meetings (Scrums) because it is more effective with interactions between team members.
-title: Do you send Morning Goals? (This rule is out of date)
+title: Do you send Morning Goals? 
 guid: 6bd9b80e-b06a-4d66-957a-c6a0ccb47677
 uri: do-you-send-morning-goals-this-rule-is-out-of-date
 created: 2009-02-28T09:44:13.0000000Z
