@@ -13,7 +13,5 @@ index:
 - do-you-know-why-you-should-use-open-with-explorer-over-skydrive-pro
 
 ---
-Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [SharePoint Server Consulting](http&#58;//www.ssw.com.au/ssw/Consulting/SharePoint.aspx) and book in a consultant.
-
+If you still need help, visit our [SharePoint Consulting page](https://www.ssw.com.au/ssw/Consulting/SharePoint.aspx) and book in a consultant.
