@@ -34,6 +34,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.  
 >                                   - Someone famous in Source Title
 
+# [This is a heading 1 as a link](https://www.google.com.au/)
+## [This is a heading 2 as a link](https://www.google.com.au/)
+### [This is a heading 3 as a link](https://www.google.com.au/)
+#### [This is a heading 4 as a link](https://www.google.com.au/)
+##### [This is a heading 5 as a link](https://www.google.com.au/)
+###### [This is a heading 6 as a link](https://www.google.com.au/)
+
 #### Unordered List
 * This is the first item of an unordered list
 * This is the second item of an unordered list
