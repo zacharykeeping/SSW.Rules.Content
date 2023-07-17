@@ -13,7 +13,7 @@ Here are the best collection of resources for Vue.js.
 
 ### Free Resources
 
-* [The official documentation - vuejs.org](http://vuejs.org/guide/)
+* [Official documentation - vuejs.org](https://vuejs.org/guide/introduction.html)
 * [Official API reference](https://vuejs.org/api/)
 * [Awesome Vue.js](https://awesome-vue.js.org)
 
